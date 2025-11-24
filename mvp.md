@@ -1,6 +1,6 @@
 # Produto Mínimo Viável - MVP
 
-<img width="540" height="308" alt="image" src="https://github.com/user-attachments/assets/471390e7-41ff-4bb7-bdd6-9f863ffe039e" />
+<img width="1055" height="280" alt="Frame 1321315358" src="https://github.com/user-attachments/assets/9dc5cfda-4d9b-4870-bbd8-fe84c5c7caf7" />
 
 ## Índice
 * [Definindo o propósito e visão do Quartinho](#definindo-o-propósito-e-visão-do-quartinho)
@@ -12,7 +12,7 @@
 * [Referências](#referências)
 
 <div style="text-align: center;">
-    <a href="#índice">Voltar ao README</a>
+<a href="https://github.com/Quartinho-Projeto-de-Sistemas-2025-2/.github/blob/main/profile/README.md">Voltar ao README</a>
 </div>
 
 ## Definindo o propósito e visão do Quartinho
