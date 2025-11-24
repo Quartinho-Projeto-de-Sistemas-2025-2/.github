@@ -7,6 +7,8 @@ Bacharelado em Ciência da Computação <br/>
 **Projeto de Sistemas 2025/2** <br/>
 Professor Edeilson Milhomem da Silva <br/>
 
+[Landing Page](https://quartinho-projeto-de-sistemas-2025-2.github.io/Landing-Page/)
+
 [Repositório da disciplina com os demais projetos da turma de Projeto de Sistemas 2025.2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2)
 
 ---
